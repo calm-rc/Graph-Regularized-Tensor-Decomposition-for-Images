@@ -6,7 +6,7 @@ This repository contains the code adapted for Image representation from the Mast
 
 The code is written on MATLAB R2021b. The required dependencies have been included in the repository as data files (data) and code files (utils and core). 
 
-The data files comprise of an image 'baboon.jpg' The data file is an RGB image of dimensions 512x512.
+The data files comprise of an image 'baboon.jpg', an RGB image of dimensions 512x512.
 
 The code files comprising of .m script files, contains the necessary mathematical operations (Tensor and Graph theory) and algorithms (ALS and Conjugate Gradient) to evalaute the GRCP model for Image representation.  
 
