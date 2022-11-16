@@ -8,7 +8,7 @@ The code is written on MATLAB R2021b. The required dependencies have been includ
 
 The data files comprise of an image 'baboon.jpg', an RGB image of dimensions 512x512.
 
-The code files comprising of .m script files, contains the necessary mathematical operations (Tensor and Graph theory) and algorithms (ALS and Conjugate Gradient) to evalaute the GRCP model for Image representation.  
+The code files comprising of .m script files, contains the necessary mathematical operations (Tensor and Graph theory) and algorithms (GRCP Alternating Least Squares and Conjugate Gradient) to evalaute the GRCP model for Image representation.  
 
 # Code Usage 
 
