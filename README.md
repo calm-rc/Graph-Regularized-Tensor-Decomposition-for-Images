@@ -1,4 +1,4 @@
-# Graph Regularized Tensor Decomposition for Images
+# Graph Regularized Tensor Decomposition (GRCP) for Images
 
 This repository contains the code adapted for Image representation from the Master of Science Thesis "[Graph Regularized Tensor Decomposition for Recommender Systems](https://github.com/calm-rc/Graph-Regularized-Tensor-Decomposition-for-Recommender-Systems)" carried out under [Dr.ir. K. Batselier](https://www.tudelft.nl/staff/k.batselier/?cHash=bc8a8a032dbc0c2e49df471ee3538c27) and [Elvin Isufi](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/elvin-isufi) in Systems and Control at Delft University of Technology. For any questions or suggestions, please e-mail [Rohan Chandrashekar](R.Chandrashekar@student.tudelft.nl).
 
